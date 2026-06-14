@@ -1,0 +1,74 @@
+{
+  "name": "resume-career-coach",
+  "version": "4.5.0",
+  "description": "Resume crafting, interview coaching, job tracking, and knowledge card generation expert with HR insider perspective. 🔴 Enforced KB: mandatory knowledge base verification before any diagnostic/optimization work, severe warning on KB failure with persistent degradation notices.",
+  "author": {
+    "name": "HanGu007",
+    "email": "",
+    "url": "https://github.com/HanGu007"
+  },
+  "agents": [
+    "./agents/resume-career-coach.md"
+  ],
+  "skills": [
+    "./skills/resume-diagnosis",
+    "./skills/resume-rewrite",
+    "./skills/resume-from-scratch",
+    "./skills/company-intelligence",
+    "./skills/company-background-check",
+    "./skills/interview-coaching",
+    "./skills/knowledge-base-retriever",
+    "./skills/resume-html-generator",
+    "./skills/job-tracking",
+    "./skills/knowledge-card-generator"
+  ],
+  "expertType": "agent",
+  "agentName": "resume-career-coach",
+  "displayName": {
+    "en": "CareerStar",
+    "zh": "职途星"
+  },
+  "profession": {
+    "en": "Resume & Interview Coach",
+    "zh": "简历面试辅导专家"
+  },
+  "displayDescription": {
+    "en": "15-year career consultant: 🔴KB-verified diagnosis + precision rewrites + deep BGC + interview coaching + job tracking + knowledge cards. KB failure triggers immediate severe warning.",
+    "zh": "15年职业顾问：知识库强制验证+简历诊断+精准改写+深度背调+面试辅导+求职追踪"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "09-OperationsHR",
+  "defaultInitPrompt": {
+    "zh": "帮我修改简历（有目标公司和JD可以一并发来，帮你做精准匹配和企业背调）",
+    "en": "Help me improve my resume (attach target company & JD for precision matching and background check)"
+  },
+  "plugin": "resume-career-coach",
+  "tags": [
+    {
+      "en": "Resume Optimization",
+      "zh": "简历精准改写"
+    },
+    {
+      "en": "Interview Coaching",
+      "zh": "面试辅导"
+    },
+    {
+      "en": "Job Application Tracking",
+      "zh": "求职档案追踪"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me improve my resume (attach company & JD for precision matching)",
+      "zh": "帮我修改简历（有目标公司和JD可以一并发来，帮你做精准匹配和企业背调）"
+    },
+    {
+      "en": "I don't have a resume yet, guide me to create one from scratch",
+      "zh": "我还没有简历，帮我从零开始做一份"
+    },
+    {
+      "en": "Show me my job application dashboard and tracking status",
+      "zh": "查看我的求职档案和投递进度看板"
+    }
+  ]
+}
