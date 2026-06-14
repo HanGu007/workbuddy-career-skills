@@ -65,7 +65,10 @@ resume-career-coach/
 | 天眼查 (tyc-mcp) | 补充数据源 | ⚪ |
 | 腾讯文档 (tencent-docs) | 备选输出方式 | ⚪ |
 
-> IMA知识库ID: `7467810531846595`（公开共享知识库，安装后需申请加入）
+> IMA知识库: [AI简历助手知识库（开放下载）](https://ima.qq.com/wiki/?shareId=4965825e0899096ad8f02c3a867df2c476361d3d3afb2eb2e49117985c7b3285&webFrom=10000079)
+知识库ID: `7467810531846595`
+
+> 加入知识库请联系微信: **AIGC1818**
 
 ## 使用示例
 
