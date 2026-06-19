@@ -1,4 +1,4 @@
-# CareerStar (职途星) — 简历面试辅导专家
+# CareerStar (职途星) — 简历面试辅导专家(5.0版本已更新，新建仓库主页自取）
 
 [![Expert Type](https://img.shields.io/badge/type-Agent-blue)](https://workbuddy.cn)
 [![Version](https://img.shields.io/badge/version-4.4.0-green)](https://github.com/HanGu007/workbuddy-career-skills)
